@@ -52,14 +52,12 @@ public class MainActivity extends AppCompatActivity {
     public Asset asset = null;
     public Asset asset1 = null;
     public Asset asset2 = null;
-    //hello ba da
     double latitude, longtitude;
     final String assetID = "6H4PeKLRMea1L0WsRXXWp9";
     final String assetID1 = "2UZPM2Mvu11Xyq5jCWNMX1";
     final String assetID2 = "4cdWlxEvmDRBBDEc2HRsaF";
     private AppBarConfiguration mAppBarConfiguration;
     private ActivityMainBinding binding;
-    //cibbb
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
